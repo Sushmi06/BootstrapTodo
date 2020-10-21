@@ -3,7 +3,7 @@
 }
 
 .fa-arrow-circle-left, .fa-plus-circle{
-    font-size:2rem;
+    font-size:1.5rem;
     color:red;
 }
 
@@ -11,5 +11,5 @@
     border-color:red !important;
 }
 .head-size{
-    font-size:2rem;
+    font-size:1.5rem
 }

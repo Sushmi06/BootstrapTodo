@@ -9,3 +9,16 @@
 .border-info{
     border-color: red !important;
 }
+
+.fa-arrow-circle-left, .fa-plus-circle{
+    font-size:1.5rem;
+    color:red;
+}
+.head-size{
+    font-size:1.5rem
+}
+
+.opacity-back{
+    opacity: 0.7;
+    filter: blur(10px);
+}
