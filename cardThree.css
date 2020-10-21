@@ -1,0 +1,11 @@
+.text-info{
+    color: red !important;
+}
+
+.btn-info{
+    background-color:red;
+}
+
+.border-info{
+    border-color: red !important;
+}

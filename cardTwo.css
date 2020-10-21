@@ -1,0 +1,15 @@
+.text-info{
+    color: red!important;
+}
+
+.fa-arrow-circle-left, .fa-plus-circle{
+    font-size:2rem;
+    color:red;
+}
+
+.border-info{
+    border-color:red !important;
+}
+.head-size{
+    font-size:2rem;
+}
